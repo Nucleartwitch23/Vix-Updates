@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "asset": "VixDesktop.zip",
+  "checksum_asset": "SHA256SUMS.txt",
+  "channel": "stable",
+  "notes": "Example only — no release published yet."
+}
